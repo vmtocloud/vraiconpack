@@ -1,10 +1,9 @@
 # vraiconpack
 Unoffical vRealize Automation Icons
 
-If you would like to contribute icons you have three options:
-
--Send them to me directly and I will upload them to this repo rkelly@vmware.com
+If you would like to contribute icons you have these options:
 
 -Send me the link on twitter @vmtocloud
 
--Create a new issue request and post a link to the icon there
+-Create a new issue from the tab above and post a link to the icon there
+
